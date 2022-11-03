@@ -13,7 +13,7 @@ import (
  */
 func main() {
 	for i := 0; i < 10; i++ {
-		fmt.Println("i ----> ", i)
+		fmt.Println("JB ----> ", i)
 		time.Sleep(1 * time.Second)
 	}
 }
